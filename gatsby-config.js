@@ -1,11 +1,11 @@
-const lost = require('lost')
+﻿const lost = require('lost')
 const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://peter.snelgrove.family',
-    title: 'Blog by Peter Snelgrove',
-    subtitle: 'I do software and woodworking',
+    url: 'https://terrinsnelgrove.com',
+    title: 'BYU Engineering-Terrin Snelgrove',
+    subtitle: 'Chemical Engineering Student\nWriting about Engineering, Education, and Personal Finance',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -23,9 +23,9 @@ module.exports = {
       },
     ],
     author: {
-      name: 'Peter Snelgrove',
-      email: 'peter@snelgrove.family',
-      github: 'kingoftheknoll',
+      name: 'Terrin Snelgrove',
+      email: 'tsnel42@gmail.com',
+      github: 'Terrin42',
       rss: '#',
     },
   },
