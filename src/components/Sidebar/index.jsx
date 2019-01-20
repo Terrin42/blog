@@ -43,6 +43,8 @@ class Sidebar extends React.Component {
           </h2>
         )}
         <p className="sidebar__author-subtitle">{subtitle}</p>
+        <p className="sidebar__author-subtitle">Topics: Engineering, College Life, and Personal Finance</p>
+
       </div>
     )
     /* eslint-enable jsx-a11y/img-redundant-alt */

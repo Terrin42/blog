@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://terrinsnelgrove.com',
     title: 'BYU Engineering-Terrin Snelgrove',
-    subtitle: 'Chemical Engineering Student\nWriting about Engineering, Education, and Personal Finance',
+    subtitle: 'Chemical Engineering Student at BYU',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
