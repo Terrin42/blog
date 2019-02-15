@@ -6,8 +6,6 @@ draft: false
 path: "/posts/hello-world/"
 category: "Life"
 tags:
-  - "Woodworking"
-  - "Programming"
-  - "Life"
 description: "Getting a blog started"
 ---
+Hey y'all. This is my tinkering article. I use this one to practice editing the blog. Should change periodically. Maybe i'll throw a meme or two on here. 
